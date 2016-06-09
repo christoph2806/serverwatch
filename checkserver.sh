@@ -15,6 +15,7 @@ function checkserver {
 	fi
 }
 
-checkserver http://www.progeno.de
 checkserver http://107.170.128.93:8090
-#checkserver http://107.170.128.93:3000
+checkserver http://daohub.org
+checkserver http://forum.daohub.org
+checkserver http://vote.daohub.org
